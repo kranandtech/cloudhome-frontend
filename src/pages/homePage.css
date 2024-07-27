@@ -157,13 +157,11 @@ ul li:hover {
     position: absolute;
     top: 8px;
     right: 8px;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 0.3s;
 }
 
-.file-folder-item:hover .delete-button {
-    opacity: 1;
-}
+
 
 .modal-overlay {
     position: fixed;
