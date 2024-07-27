@@ -157,7 +157,6 @@ ul li:hover {
     position: absolute;
     top: 8px;
     right: 8px;
-    opacity: 1;
     transition: opacity 0.3s;
 }
 
